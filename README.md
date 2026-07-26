@@ -1,6 +1,6 @@
 # Eklavya Daksh
 
-A disciplined Computer Science student focused on Software Development Engineering (SDE) tracks, core low-level fundamentals, and system design optimization.
+A  Computer Science student focused on Software Development Engineering (SDE) tracks, core low-level fundamentals, and system design optimization.
 
 ---
 
