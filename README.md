@@ -1,66 +1,35 @@
-# Hi there, I'm Eklavya Daksh! 👋
+# Eklavya Daksh
 
-<p align="left">
-  <img src="https://komarev.com" alt="Views" />
-</p>
-
-A disciplined Computer Science student focused on Software Development Engineering (SDE) tracks, low-level fundamentals, and system design optimization.
+A disciplined Computer Science student focused on Software Development Engineering (SDE) tracks, core low-level fundamentals, and system design optimization.
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://shields.io" alt="Twitter" />
-  </a>
-</p>
+## 🌐 Professional Links
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* **GitHub Profile:** [://github.com](https://://github.com)
+* **X / Twitter:** [://x.com](https://twitter.com)
 
 ---
 
-## 📊 Performance & Commit Metrics
-
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Eklavya's GitHub Stats" height="160" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Top Languages" height="160" />
-  </a>
-</p>
+## 📊 Live Metrics & Profiles
+* **GitHub Real-time Statistics:** [Check My Public GitHub Overview Insights](https://vercel.app)
+* **Top Technologies Analytics:** [View My Most Used Programming Languages](https://vercel.app)
 
 ---
 
 ## 🛠️ Technical Matrix
 
-### 💻 Languages & Logic
-<p align="left">
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="Python" />
-</p>
+### Languages & Logic
+* **C++ / C:** Core focus on algorithmic complexity and pointer memory safety tracking.
+* **Python:** Applied logic workflows, data handling, and automation scripts.
 
-### 🌐 Interfaces & Web Design
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-</p>
+### Interfaces & Web Design
+* **Web Tech Stack:** HTML5, CSS3, and JavaScript logic blocks for functional application interfaces.
 
 ---
 
 ## 🎯 Engineering Objectives
-* ⚡ **Data Structures:** Actively building and profiling algorithmic workflows inside my structural tracking repos.
-* 🏗️ **Architectural Quality:** Writing modular, readable, and object-oriented scripts over messy codeblocks.
+* ⚡ **Data Structures:** Actively building and profiling algorithmic workflows inside my tracking repositories.
+* 🏗️ **Architectural Quality:** Writing modular, readable, and object-oriented scripts over loose code blocks.
 * 📦 **Product Development:** Transitioning core scripting fundamentals into production-ready web platforms.
 
----
-
-## 🐍 Activity Feed
-![GitHub Snake Banner](https://github.com/blob/output/github-contribution-grid-snake.svg)
