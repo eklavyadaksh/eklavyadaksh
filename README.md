@@ -1,99 +1,66 @@
-## Hi there 👋
-# Eklavya Daksh | Portfolio
+# Hi there, I'm Eklavya Daksh! 👋
 
-A modern, responsive portfolio website showcasing my projects, technical skills, and journey as a Computer Science student aspiring to become a Software Development Engineer.
+<p align="left">
+  <img src="https://komarev.com" alt="Views" />
+</p>
 
-## About
-
-This portfolio serves as a central place to learn more about me, explore my projects, and connect with me professionally.
-
-## Features
-
-- Responsive design
-- Modern UI/UX
-- Projects showcase
-- Skills section
-- About Me
-- Contact section
-- Social media integration
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Live Demo
-
-> Add your deployed portfolio link here.
-
-Example:
-```
-https://your-portfolio.vercel.app
-```
-
-## Project Structure
-
-```
-portfolio/
-├── assets/
-│   ├── images/
-│   └── icons/
-├── css/
-├── js/
-├── index.html
-└── README.md
-```
-
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/eklavyadaksh/portfolio.git
-```
-
-Open the project folder:
-
-```bash
-cd portfolio
-```
-
-Run the project by opening `index.html` in your browser or use the VS Code Live Server extension.
-
-## Connect With Me
-
-- GitHub: https://github.com/eklavyadaksh
-- LinkedIn: https://www.linkedin.com/in/eklavyadakshlifelonglearner/
-
-## Future Improvements
-
-- Dark/Light mode
-- Project filtering
-- Blog section
-- Animations
-- Backend-powered contact form
-- Performance optimizations
-
-## License
-
-This project is licensed under the MIT License. Feel free to fork and customize it for learning purposes.
+A disciplined Computer Science student focused on Software Development Engineering (SDE) tracks, low-level fundamentals, and system design optimization.
 
 ---
 
-Made with ❤️ by **Eklavya Daksh**
+## 🌐 Connect With Me
 
-<!--
-**eklavyadaksh/eklavyadaksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://shields.io" alt="Twitter" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Performance & Commit Metrics
+
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Eklavya's GitHub Stats" height="160" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Top Languages" height="160" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technical Matrix
+
+### 💻 Languages & Logic
+<p align="left">
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="Python" />
+</p>
+
+### 🌐 Interfaces & Web Design
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+</p>
+
+---
+
+## 🎯 Engineering Objectives
+* ⚡ **Data Structures:** Actively building and profiling algorithmic workflows inside my structural tracking repos.
+* 🏗️ **Architectural Quality:** Writing modular, readable, and object-oriented scripts over messy codeblocks.
+* 📦 **Product Development:** Transitioning core scripting fundamentals into production-ready web platforms.
+
+---
+
+## 🐍 Activity Feed
+![GitHub Snake Banner](https://github.com/blob/output/github-contribution-grid-snake.svg)
